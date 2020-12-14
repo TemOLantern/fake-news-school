@@ -17,9 +17,10 @@ $: if ($bool2) {
         background-image: var(--background);
         padding: 8px;
         border: 1px solid black;
-        height: 300px;
+        height: 250px;
         float: var(--float);
         display: block;
         margin: 5px;
+        margin-top: -58px;
     }
 </style>

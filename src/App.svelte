@@ -91,7 +91,9 @@
    <Settings></Settings>
    <div class="darkbck" on:click={onClick} transition:fade></div>
   {/if}
+  <a href="/">
   <img alt = "pog" src="https://cdn.discordapp.com/attachments/690352706635956325/786544969020080128/fake_news.png"/>
+  </a>
   <footer class="footer">
     
     <p>Laget av Faban Ø. Tang<br><br>For IT prosjekt desember 2020.</p>
@@ -101,7 +103,7 @@
     img{
       position: fixed;
       height: 150px;
-      left: 81%;
+      left: 80.5%;
       top: 80%;
     }
     .footer p{

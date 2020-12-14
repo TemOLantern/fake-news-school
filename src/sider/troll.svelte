@@ -26,12 +26,5 @@ import Header from "../template/header.svelte";
         display: block;
         line-height: 1.5056;
     }
-    img{
-        background-image: url("https://media3.giphy.com/media/WZrOaNjFPKT5e/giphy.gif");
-        padding: 8px;
-        border: 1px solid black;
-        height: 300px;
-        float: right;
-        display: block;
-    }
+   
     </style>

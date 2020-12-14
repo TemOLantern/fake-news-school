@@ -9,7 +9,7 @@ let y = 0
 </script>
 <svelte:window bind:scrollY={y}/>
 <p></p>
-<progress value = {y/632}></progress> 
+<progress value = {y/832}></progress> 
 <style>
       progress{
     display: block;
